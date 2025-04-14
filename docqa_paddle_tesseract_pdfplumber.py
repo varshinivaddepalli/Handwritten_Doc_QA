@@ -13,7 +13,7 @@ from io import BytesIO
 
 # Friendli API setup
 API_URL = "https://api.friendli.ai/serverless/v1/chat/completions"
-API_KEY = "flp_KlaAuMmfSJLERI6a6UNtAy3UZnZjmLiFGv8wY6DF9zW032"  # Replace with your API Key
+API_KEY = "Replace with your API Key"  # Replace with your API Key
 MODEL_NAME = "meta-llama-3.1-8b-instruct"
 
 # PaddleOCR initialization
